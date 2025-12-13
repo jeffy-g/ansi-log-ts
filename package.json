@@ -1,0 +1,47 @@
+{
+  "name": "ansi-log-ts",
+  "version": "1.0.3",
+  "main": "./cjs/ansi-console.js",
+  "types": "ansi-console.d.ts",
+  "module": "./esm/ansi-console.mjs",
+  "exports": {
+    ".": {
+      "import": "./esm/ansi-console.mjs",
+      "require": "./cjs/ansi-console.js",
+      "types": "./ansi-console.d.ts"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffy-g/ansi-log-ts.git"
+  },
+  "keywords": [
+    "console",
+    "colors",
+    "typescript",
+    "ansi",
+    "ts"
+  ],
+  "files": [
+    "cjs",
+    "esm",
+    "*.jpg",
+    "*.d.ts",
+    "LICENSE"
+  ],
+  "author": "jeffy-g",
+  "license": "Apache-2.0",
+  "description": "Console colors dev by Typescript.",
+  "devDependencies": {
+    "@types/node": "*",
+    "typescript": "*"
+  },
+  "peerDependencies": {
+    "js-dev-tool": "*",
+    "rimraf": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/jeffy-g/ansi-log-ts/issues"
+  },
+  "homepage": "https://github.com/jeffy-g/ansi-log-ts#readme"
+}
