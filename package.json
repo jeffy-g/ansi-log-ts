@@ -15,6 +15,9 @@
     "type": "git",
     "url": "git+https://github.com/jeffy-g/ansi-log-ts.git"
   },
+  "engines": {
+    "node": ">=14.18.0"
+  },
   "keywords": [
     "console",
     "colors",

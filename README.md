@@ -1,3 +1,11 @@
+![NPM Version](https://img.shields.io/npm/v/ansi-log-ts?style=plastic&color=green)
+![node-current](https://img.shields.io/node/v/ansi-log-ts?style=plastic)
+![LICENSE](https://img.shields.io/badge/License-MIT-blue.svg)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jeffy-g/ansi-log-ts?style=plastic)
+![npm bundle size](https://img.shields.io/bundlephobia/min/ansi-log-ts?style=plastic)
+![NPM Downloads](https://img.shields.io/npm/dm/ansi-log-ts?style=plastic)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jeffy-g/ansi-log-ts?style=plastic)
+
 ansi-log-ts (WIP)
 ==================
 
